@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luxplanjay/webpack-starter-kit.git"
+    "url": "git+https://github.com/dchuchukalo/goit-js-hw-11-timer.git"
   },
   "keywords": [],
   "author": "Dmytro Chuchukalo <Dimachuchukalo@gmail.com>",
